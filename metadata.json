@@ -1,0 +1,7 @@
+{
+  "name": "VoidCore",
+  "description": "Living, voice-first native AI assistant with local-first reasoning, particle presence, device tools, and morning briefings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VoidCore</string>
+    <string name="accessibility_service_description">Enables VoidCore to safely interact with device controls and assist with tasks on your explicit instruction.</string>
+</resources>

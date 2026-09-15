@@ -1,0 +1,50 @@
+# Built application files
+*.apk
+*.aab
+app/release/
+
+# Gradle and Build Cache
+.gradle/
+build/
+**/build/
+/build
+app/build/
+
+# IDE and Project files
+*.iml
+.idea/
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+captures/
+/captures
+.externalNativeBuild
+externalNativeBuild/
+.cxx/
+.kotlin/
+
+# Keys, Keystores, and Sensitive Files
+local.properties
+/local.properties
+*.jks
+*.keystore
+*.key
+*.pem
+debug.keystore
+.env
+.env.*
+
+# Logs
+*.log
+
+# AI Models and Heavy Runtime Binaries (Downloaded on-device at runtime)
+models/
+downloaded_models/
+*.gguf
+*.litertlm
+*.tflite
+
